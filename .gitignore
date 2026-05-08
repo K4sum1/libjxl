@@ -2,6 +2,7 @@
 /build
 /build*
 /bazel*
+!build.bat
 
 # clangd
 .cache
